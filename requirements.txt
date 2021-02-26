@@ -1,0 +1,11 @@
+colorama==0.4.4
+commonmark==0.9.1
+dnspython==2.0.0
+http-client==0.1.22
+pycurl==7.43.0.6
+Pygments==2.7.2
+rich==9.2.0
+six==1.15.0
+tabulate==0.8.7
+texttable==1.6.3
+typing-extensions==3.7.4.3

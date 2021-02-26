@@ -1,0 +1,11 @@
+def prRed(skk, obj=''): print("\033[91m {}\033[00m" .format(skk), obj) 
+def prGreen(skk, obj=''): print("\033[92m {}\033[00m" .format(skk), obj) 
+def prYellow(skk, obj=''): print("\033[93m {}\033[00m" .format(skk), obj) 
+def prLightPurple(skk, obj=''): print("\033[94m {}\033[00m" .format(skk), obj) 
+def prPurple(skk, obj=''): print("\033[95m {}\033[00m" .format(skk), obj) 
+def prCyan(skk, obj=''): print("\033[96m {}\033[00m" .format(skk), obj) 
+def prLightGray(skk, obj=''): print("\033[97m {}\033[00m" .format(skk), obj) 
+def prBlack(skk, obj=''): print("\033[98m {}\033[00m" .format(skk), obj) 
+
+def formatRed(str): return "\033[91m {}\033[00m".format(str)
+def formatYellow(str): return "\033[93m {}\033[00m".format(str)
